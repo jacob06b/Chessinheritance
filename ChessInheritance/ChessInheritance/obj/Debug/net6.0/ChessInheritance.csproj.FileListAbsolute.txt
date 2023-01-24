@@ -1,0 +1,15 @@
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/bin/Debug/net6.0/ChessInheritance
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/bin/Debug/net6.0/ChessInheritance.deps.json
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/bin/Debug/net6.0/ChessInheritance.runtimeconfig.json
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/bin/Debug/net6.0/ChessInheritance.dll
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/bin/Debug/net6.0/ChessInheritance.pdb
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.AssemblyInfo.cs
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.dll
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/refint/ChessInheritance.dll
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.pdb
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ChessInheritance.genruntimeconfig.cache
+/Users/jacobbramwell/Documents/GitHub/Chessinheritance/ChessInheritance/ChessInheritance/obj/Debug/net6.0/ref/ChessInheritance.dll

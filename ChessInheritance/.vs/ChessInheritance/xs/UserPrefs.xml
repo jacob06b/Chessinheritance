@@ -1,9 +1,12 @@
 ﻿<Properties StartupConfiguration="{2F3F8FAA-C54D-4AB4-9612-4E6B70918ECC}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChessInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="ChessInheritance/Knight.cs">
     <Files>
-      <File FileName="ChessInheritance/EmptyClass.cs" Line="20" Column="31" />
-      <File FileName="ChessInheritance/Knight.cs" Line="34" Column="1" />
+      <File FileName="ChessInheritance/Knight.cs" Line="18" Column="14" />
       <File FileName="ChessInheritance/Program.cs" Line="10" Column="1" />
     </Files>
     <Pads>
@@ -21,10 +24,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ChessInheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

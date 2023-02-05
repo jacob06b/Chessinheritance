@@ -3,10 +3,13 @@ namespace ChessPieces
 {
     public class Knight : Chess
     {
+        public string rank { get; set; }
+        public string fileP { get; set; }
+
         public Knight(string team, int number)
         {
-            string rank = "";
-            string file = "";
+            Rank = rank;
+            FileP = fileP;
             if (team == "White")
             {
                 rank = "1";
@@ -31,7 +34,11 @@ namespace ChessPieces
         {
             if (Vertical % 2 == 2*(Horizontal%2) || Horizontal%2 == 2*(Vertical%2))
             {
-
+                if()
+            }
+            else
+            {
+                Console.WriteLine("Invalid move");
             }
         }
     }
